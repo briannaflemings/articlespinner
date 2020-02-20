@@ -1,0 +1,10 @@
+INSTALLATION
+------------
+
+1. Download script files and unzip.
+2. Upload files on your server.
+
+MORE INFORMATION
+----------------
+
+If you have any problems installing, contact us.
