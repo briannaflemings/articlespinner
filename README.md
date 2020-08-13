@@ -1,2 +1,4 @@
 # articlespinner
-This is a personal project I have collaborated in creating an article spinner and manipulating the dictionary to provide students a better way of rewriting an article.
+This is a simple and effective article spinner. This spinner is very relatable to the popular website: spinbot.com
+
+This is an open source project feel free to pull the code and update the dictionary.php file.
